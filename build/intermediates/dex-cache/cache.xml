@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2bc9504de613d88cca82360b042134b2d308392e">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/instant-run_f677d4d7a1c37d74e6f21a9eb4d91eab4c2f890c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_717a2583e4dfb6b43d477c04a33bc33af6e962fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7651b3e16b09a241c61672a634c685c8b6a558c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha4_c47a179902e3a9d5dab5870119a6176c14fc1f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="02c4998ac7e07748cfdda33f0ec7858705d9bff2">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_96d2899063fe4e190c3f67818eab9522e8539a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_a6d9bb6affae11e2c4de5bee07c93730eb7b91d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_56f5bc07dcf24b323ec511b5589b48356899e58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_24bb17fcd42d62d42aee1e31b3fd161cc1b5dca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5e57a3bb4b530cd44d61900978a31c9e9185fb90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1606d36ecc82f71264bb3cd7383940edc54c536b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nimitharamesh/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/nimitharamesh/Desktop/TrueCare24/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha4_e38a720b8364c0afb08cba80495b4fb1aa56cfeb.jar" />
+    </item>
+
+</items>
